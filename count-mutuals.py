@@ -13,5 +13,5 @@ mutuals = mutuals_only(json_data)
 print("Total Number of People You're Following:", total_following)
 print("Mutuals:", len(mutuals))
 print("First 10 Mutuals:")
-for mutual in true_mutuals[:10]:
+for mutual in mutuals[:10]:
     print(json.dumps(mutual, indent=2))

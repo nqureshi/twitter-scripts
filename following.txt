@@ -1,4 +1,3 @@
-
 [
     {
         "bio": "cofounder @metaphorsystems\n\nprev SPC, Plaid, Harvard",
