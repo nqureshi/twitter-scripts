@@ -1,0 +1,1671 @@
+
+[
+    {
+        "bio": "cofounder @metaphorsystems\n\nprev SPC, Plaid, Harvard",
+        "username": "Jeffrey Wang",
+        "handle": "@wangzjeff",
+        "mutuals": false
+    },
+    {
+        "bio": "techno-optimist goth gf",
+        "username": "waxingarcane",
+        "handle": "@waxingarcane",
+        "mutuals": true
+    },
+    {
+        "bio": "streak of fat, streak of lean",
+        "username": "Seasonal Clickfarm Worker",
+        "handle": "@ClickingSeason",
+        "mutuals": true
+    },
+    {
+        "bio": "snail chasing you as a service (YC 34)\n\ntweets represent the views of your employer",
+        "username": "stoop kid",
+        "handle": "@StoopMensch",
+        "mutuals": true
+    },
+    {
+        "bio": "Indie hacker and educator. Blogging at http://joshwcomeau.com.\nPreviously @gatsbyjs, @digitalocean, @concordia_btcmp, @khanacademy.\nHe/Him",
+        "username": "Josh W. Comeau",
+        "handle": "@JoshWComeau",
+        "mutuals": false
+    },
+    {
+        "bio": "Storyteller. CFP @TheBARPod. Passionate about learning, expertise, education, and the strength of narratives and deliberate restrictions. Eng/中文",
+        "username": "TracingWoodgrains",
+        "handle": "@tracewoodgrains",
+        "mutuals": false
+    },
+    {
+        "bio": "Menswear writer. Editor at @putthison. Creator of @RLGoesHard. Bylines at The New York Times, The Washington Post, The Financial Times, Esquire, and Mr. Porter",
+        "username": "derek guy",
+        "handle": "@dieworkwear",
+        "mutuals": false
+    },
+    {
+        "bio": "CEO @perplexity_ai",
+        "username": "Aravind Srinivas",
+        "handle": "@AravSrinivas",
+        "mutuals": false
+    },
+    {
+        "bio": "collective intelligence accelerationist @collect_intel, building better institutions @UniofOxford @metagov_project, former political economist @Microsoft",
+        "username": "Divya Siddarth",
+        "handle": "@divyasiddarth",
+        "mutuals": false
+    },
+    {
+        "bio": "@vercel CEO",
+        "username": "Guillermo Rauch",
+        "handle": "@rauchg",
+        "mutuals": false
+    },
+    {
+        "bio": "Stanford Economics Professor,\nresearch on Working From Home, co-founder of http://wfhresearch.com",
+        "username": "Nick Bloom",
+        "handle": "@I_Am_NickBloom",
+        "mutuals": false
+    },
+    {
+        "bio": "@bloombergbeta; of the San Gabriel Valley; investing in 2030; working to improve the second derivative; looking for troublesome ringleaders!",
+        "username": "James Cham",
+        "handle": "@jamescham",
+        "mutuals": true
+    },
+    {
+        "bio": "vc @sparkcapital  partner to @adeptailabs @_allstripes @discord @descriptapp @instawork @ridezum @sonderstays @wildtypefoods, prior bod @cruise @postmates",
+        "username": "Nabeel Hyatt",
+        "handle": "@nabeel",
+        "mutuals": false
+    },
+    {
+        "bio": "\"The Writing Guy\" | Jesus-Follower | I tweet about writing, learning and work | My writing school: http://writeofpassage.school | My writing: http://perell.com",
+        "username": "David Perell",
+        "handle": "@david_perell",
+        "mutuals": true
+    },
+    {
+        "bio": "cofounder @metaphorsystems\n\nprev SPC, Plaid, Harvard",
+        "username": "Jeffrey Wang",
+        "handle": "@wangzjeff",
+        "mutuals": false
+    },
+    {
+        "bio": "techno-optimist goth gf",
+        "username": "waxingarcane",
+        "handle": "@waxingarcane",
+        "mutuals": true
+    },
+    {
+        "bio": "streak of fat, streak of lean",
+        "username": "Seasonal Clickfarm Worker",
+        "handle": "@ClickingSeason",
+        "mutuals": true
+    },
+    {
+        "bio": "snail chasing you as a service (YC 34)\n\ntweets represent the views of your employer",
+        "username": "stoop kid",
+        "handle": "@StoopMensch",
+        "mutuals": true
+    },
+    {
+        "bio": "Indie hacker and educator. Blogging at http://joshwcomeau.com.\nPreviously @gatsbyjs, @digitalocean, @concordia_btcmp, @khanacademy.\nHe/Him",
+        "username": "Josh W. Comeau",
+        "handle": "@JoshWComeau",
+        "mutuals": false
+    },
+    {
+        "bio": "Storyteller. CFP @TheBARPod. Passionate about learning, expertise, education, and the strength of narratives and deliberate restrictions. Eng/中文",
+        "username": "TracingWoodgrains",
+        "handle": "@tracewoodgrains",
+        "mutuals": false
+    },
+    {
+        "bio": "Menswear writer. Editor at @putthison. Creator of @RLGoesHard. Bylines at The New York Times, The Washington Post, The Financial Times, Esquire, and Mr. Porter",
+        "username": "derek guy",
+        "handle": "@dieworkwear",
+        "mutuals": false
+    },
+    {
+        "bio": "CEO @perplexity_ai",
+        "username": "Aravind Srinivas",
+        "handle": "@AravSrinivas",
+        "mutuals": false
+    },
+    {
+        "bio": "collective intelligence accelerationist @collect_intel, building better institutions @UniofOxford @metagov_project, former political economist @Microsoft",
+        "username": "Divya Siddarth",
+        "handle": "@divyasiddarth",
+        "mutuals": false
+    },
+    {
+        "bio": "@vercel CEO",
+        "username": "Guillermo Rauch",
+        "handle": "@rauchg",
+        "mutuals": false
+    },
+    {
+        "bio": "Stanford Economics Professor,\nresearch on Working From Home, co-founder of http://wfhresearch.com",
+        "username": "Nick Bloom",
+        "handle": "@I_Am_NickBloom",
+        "mutuals": false
+    },
+    {
+        "bio": "@bloombergbeta; of the San Gabriel Valley; investing in 2030; working to improve the second derivative; looking for troublesome ringleaders!",
+        "username": "James Cham",
+        "handle": "@jamescham",
+        "mutuals": true
+    },
+    {
+        "bio": "vc @sparkcapital  partner to @adeptailabs @_allstripes @discord @descriptapp @instawork @ridezum @sonderstays @wildtypefoods, prior bod @cruise @postmates",
+        "username": "Nabeel Hyatt",
+        "handle": "@nabeel",
+        "mutuals": false
+    },
+    {
+        "bio": "\"The Writing Guy\" | Jesus-Follower | I tweet about writing, learning and work | My writing school: http://writeofpassage.school | My writing: http://perell.com",
+        "username": "David Perell",
+        "handle": "@david_perell",
+        "mutuals": true
+    },
+    {
+        "bio": "making machines that make other machines @genfabco - rationalist, humanist, liberal, and friend of the future",
+        "username": "mattparlmer",
+        "handle": "@mattparlmer",
+        "mutuals": true
+    },
+    {
+        "bio": "",
+        "username": "Kevin Kwok",
+        "handle": "@kevinakwok",
+        "mutuals": true
+    },
+    {
+        "bio": "Making quality videos on frontend development.\n\n@_buildui · @frontendfirstfm · @velocity_fm",
+        "username": "Sam Selikoff",
+        "handle": "@samselikoff",
+        "mutuals": false
+    },
+    {
+        "bio": "CEO @MavenHQ. Previously co-founder @udemy.",
+        "username": "Gagan Biyani",
+        "handle": "@gaganbiyani",
+        "mutuals": false
+    },
+    {
+        "bio": "Software engineer. Hacking on large language models",
+        "username": "anton",
+        "handle": "@abacaj",
+        "mutuals": false
+    },
+    {
+        "bio": "the logical journey, means well",
+        "username": "zeta",
+        "handle": "@zeta_globin",
+        "mutuals": false
+    },
+    {
+        "bio": "multiplayer learning, magical incantations, and movement. building the university of tomorrow @mavenhq. prev built @SocraticOrg (@google), @venmo",
+        "username": "shreyans bhansali",
+        "handle": "@shreyans___",
+        "mutuals": true
+    },
+    {
+        "bio": "https://stephenthomaswriting.com",
+        "username": "Steve - Millionaire Habits",
+        "handle": "@skwthomas",
+        "mutuals": true
+    },
+    {
+        "bio": "staff writer @newyorker; second book, FILTERWORLD: How Algorithms Flattened Culture, coming @doubleday January 2024; newsletter: http://kylechayka.substack.com",
+        "username": "Kyle Chayka",
+        "handle": "@chaykak",
+        "mutuals": false
+    },
+    {
+        "bio": "CEO @CityofPraxis — Building a new city to support those solving the world’s hardest problems. Vitality.",
+        "username": "Dryden",
+        "handle": "@drydenwtbrown",
+        "mutuals": true
+    },
+    {
+        "bio": "founder @ValDotTown, all the code that's fit to run",
+        "username": "Steve Krouse",
+        "handle": "@stevekrouse",
+        "mutuals": true
+    },
+    {
+        "bio": "Building.",
+        "username": "Hassan",
+        "handle": "@nutlope",
+        "mutuals": true
+    },
+    {
+        "bio": "Anti-ego ideas for anti-ergodic life. Founder, @smolmodels ▹ AI news/pod: @latentspacepod ▹ Principles: @coding_career ▹ Curator: @aiDotengineer",
+        "username": "swyx NeurIPS",
+        "handle": "@swyx",
+        "mutuals": false
+    },
+    {
+        "bio": "building. \n\npreviously engineering @GitHub @khanacademy, @dropbox, @microsoft, @kik\n\nlearned things @UniofOxford and @uwaterloo",
+        "username": "intelliJay-Z",
+        "handle": "@aymannadeem",
+        "mutuals": false
+    },
+    {
+        "bio": "be the limit case",
+        "username": "varepsilon",
+        "handle": "@var_epsilon",
+        "mutuals": true
+    },
+    {
+        "bio": "ML researcher focusing on natural language modeling and alignment.",
+        "username": "Quintin Pope",
+        "handle": "@QuintinPope5",
+        "mutuals": false
+    },
+    {
+        "bio": "I am not one half of the problem http://kneelingbus.substack.com",
+        "username": "Drew Austin",
+        "handle": "@kneelingbus",
+        "mutuals": true
+    },
+    {
+        "bio": "scattered scrambled jumbled muddled",
+        "username": "",
+        "handle": "@worm_emoji",
+        "mutuals": true
+    },
+    {
+        "bio": "physician-scientist turned investor @KdT_Ventures, helping founders build science and tech-driven companies |  http://decodingbio.com",
+        "username": "Patrick Malone, MD PhD",
+        "handle": "@patricksmalone",
+        "mutuals": true
+    },
+    {
+        "bio": "Cofounded and lead @PyTorch at Meta.\nAlso dabble in robotics at NYU.\n\nAI is delicious when it is accessible and open-source.",
+        "username": "Soumith Chintala",
+        "handle": "@soumithchintala",
+        "mutuals": false
+    },
+    {
+        "bio": "human-robot relations @openai",
+        "username": "benjamin",
+        "handle": "@ikeadrift",
+        "mutuals": false
+    },
+    {
+        "bio": "ui + ai @replit",
+        "username": "Tyler Angert",
+        "handle": "@tylerangert",
+        "mutuals": true
+    },
+    {
+        "bio": "Author of 5 #1 NYT/WSJ bestsellers, early-stage investor (http://angel.co/tim), Tim Ferriss Show podcast (900M+ downloads), founder of http://saiseifoundation.org",
+        "username": "Tim Ferriss",
+        "handle": "@tferriss",
+        "mutuals": false
+    },
+    {
+        "bio": "I'm living with a spicy brain.",
+        "username": "jason",
+        "handle": "@jxnlco",
+        "mutuals": false
+    },
+    {
+        "bio": "nurse turned into healthtech nerd, love dogs, partnerships lead at http://awellhealth.com (NOT Amwell), please don’t take me serious",
+        "username": "Rik Renard",
+        "handle": "@rikrenard",
+        "mutuals": true
+    },
+    {
+        "bio": "let the band play neck",
+        "username": "pjeffa (,)",
+        "handle": "@jeff82874662",
+        "mutuals": true
+    },
+    {
+        "bio": "what will computing become?",
+        "username": "Max Krieger ∈",
+        "handle": "@maxkriegers",
+        "mutuals": true
+    },
+    {
+        "bio": "PhD student @mit_hst, @harvardmed | @NSF fellow",
+        "username": "Dennis Gong",
+        "handle": "@GongDennis",
+        "mutuals": true
+    },
+    {
+        "bio": "AI, ex @stripe\n\n CEO of @dingboard_ - ai powered memes\n\nhttps://dingboard.com\n\n3k readers: http://yacine.ca/blog\n\nDM ME FOR INVITE CODES",
+        "username": "kache (yacine) (KING OF DING)",
+        "handle": "@yacineMTB",
+        "mutuals": false
+    },
+    {
+        "bio": "EIR at @foundersfund, founder at http://lucy.co",
+        "username": "John Coogan",
+        "handle": "@johncoogan",
+        "mutuals": true
+    },
+    {
+        "bio": "physics / AI / energy / art / realposting. /ally. cofounder, inventor, CEO, http://lightcellenergy.com \"extraordinary alien\" - US govt HIGH VOLUME ACCOUNT",
+        "username": "Danielle Fong",
+        "handle": "@DanielleFong",
+        "mutuals": true
+    },
+    {
+        "bio": "Physicist, Immigrant, Pilot, Dad.\nFormer Caltech, Hyperloop, NASA JPL.\nFounder @terraformindies. Build more solar!",
+        "username": "Casey Handmer, PhD",
+        "handle": "@CJHandmer",
+        "mutuals": false
+    },
+    {
+        "bio": "@juliusai_",
+        "username": "rahul",
+        "handle": "@0interestrates",
+        "mutuals": false
+    },
+    {
+        "bio": "founder @RowanSci //  ☧, husband/father, computational/organic chemist",
+        "username": "Corin Wagen",
+        "handle": "@CorinWagen",
+        "mutuals": true
+    },
+    {
+        "bio": "Anti-cynic. Artificial narrow intelligence. Autonomous vehicles, multi-agent learning, and transportation. RS at Apple, Asst. Prof at @nyutandon. He/him.",
+        "username": "Eugene Vinitsky @neurips!",
+        "handle": "@EugeneVinitsky",
+        "mutuals": true
+    },
+    {
+        "bio": "Investing @hofcapital. Stanford ‘21. Exploring futures @tomorrowtalk_.",
+        "username": "Sabrina Halper",
+        "handle": "@SabrinaHalper",
+        "mutuals": true
+    },
+    {
+        "bio": "co-founder / ceo @every | writing about ChatGPT and OpenAI",
+        "username": "Dan Shipper",
+        "handle": "@danshipper",
+        "mutuals": true
+    },
+    {
+        "bio": "building an AI copilot for early-stage drug discovery (hiring)",
+        "username": "Adam Green",
+        "handle": "@adamlewisgreen",
+        "mutuals": false
+    },
+    {
+        "bio": "cypherpunk interested in zk, AI, privacy tech",
+        "username": "suzuha",
+        "handle": "@dystopiabreaker",
+        "mutuals": false
+    },
+    {
+        "bio": "Player of wicked games. biosecurity. Prev CS @MIT, governance @metagov_project, @verses_xyz, prev AI policy @CSET",
+        "username": "Max Langenkamp",
+        "handle": "@mslkmp",
+        "mutuals": false
+    },
+    {
+        "bio": "21 // @shack15sf labs, prev. made chatgpt plugins",
+        "username": "surya",
+        "handle": "@sdand",
+        "mutuals": true
+    },
+    {
+        "bio": "engineering growth at @replit • founded @uniwhere (acq'd) // hacker, tinkerer, misfit • cooking products (& food) • nyc",
+        "username": "gian",
+        "handle": "@giansegato",
+        "mutuals": true
+    },
+    {
+        "bio": "investing @pacecap prev @stanford writing at http://gracekasten.xyz",
+        "username": "Grace",
+        "handle": "@g_kasten",
+        "mutuals": true
+    },
+    {
+        "bio": "dinner host",
+        "username": "Jim Savage",
+        "handle": "@abiylfoyp",
+        "mutuals": true
+    },
+    {
+        "bio": "Mathematized philosophy of literature",
+        "username": "Peli Grietzer",
+        "handle": "@peligrietzer",
+        "mutuals": false
+    },
+    {
+        "bio": "artivore",
+        "username": "mm",
+        "handle": "@hyperbenevolent",
+        "mutuals": false
+    },
+    {
+        "bio": "SECOND ACT: What Late Bloomers Can Tell You About Success and Reinventing Your Life\n\nhttps://t.ly/0SYKB",
+        "username": "Henry Oliver",
+        "handle": "@HenryEOliver",
+        "mutuals": true
+    },
+    {
+        "bio": "Author of \"Status and Culture\" and \"Ametora.\" Newsletter at http://culture.ghost.io.",
+        "username": "W. David Marx",
+        "handle": "@wdavidmarx",
+        "mutuals": false
+    },
+    {
+        "bio": "Articles of Interest is a show about what we wear",
+        "username": "Avery Trufelman",
+        "handle": "@trufelman",
+        "mutuals": false
+    },
+    {
+        "bio": "movies, media, tech, human behavior, time’s relentless march. exasperated humanism & compassionate cynicism.",
+        "username": "Lauren Wilford",
+        "handle": "@lauren_wilford",
+        "mutuals": false
+    },
+    {
+        "bio": "sincere posting + http://BOORITNEY.COM",
+        "username": "brit",
+        "handle": "@booritney",
+        "mutuals": false
+    },
+    {
+        "bio": "Creator @datasetteproj, co-creator Django. PSF board. @nichemuseums. Hangs out with @natbat + @cleopaws. He/Him. Mastodon: https://fedi.simonwillison.net/@simon",
+        "username": "Simon Willison",
+        "handle": "@simonw",
+        "mutuals": false
+    },
+    {
+        "bio": "Black and white and read all over. \n\nBuilding things. Writing things. Winning things.",
+        "username": "Conrad Bastable",
+        "handle": "@ConradBastable",
+        "mutuals": true
+    },
+    {
+        "bio": "a fool who believes in universal fools",
+        "username": "Toby",
+        "handle": "@tobyshorin",
+        "mutuals": false
+    },
+    {
+        "bio": "Love to build stuff (@runwayco, @sandboxvr, @postmates, @zynga) people love.  Investor @amplitude_hq, @mercury, @slope_finance, @italic",
+        "username": "Siqi Chen",
+        "handle": "@blader",
+        "mutuals": true
+    },
+    {
+        "bio": "speak softly and carry a big poem  austin-based wr*ter this is my diary",
+        "username": "steff",
+        "handle": "@moonandmouth",
+        "mutuals": true
+    },
+    {
+        "bio": "current: ML @PalantirTech\nprev: ML @Twitter (acq. by @elonmusk) | ML @DeptofDefense | @Marines \nelse:",
+        "username": "Ben Radford",
+        "handle": "@BWRadford",
+        "mutuals": true
+    },
+    {
+        "bio": "Walking the world & sharing stories at https://nationalgeographic.org/projects/out-of-eden-walk/… Follow here & @outofedenwalk. All views personal.",
+        "username": "Paul Salopek",
+        "handle": "@PaulSalopek",
+        "mutuals": false
+    },
+    {
+        "bio": "on a sabbatical: traveling, cooking, sleeping in. ex product @twitter. prev ceo @squad (acq'd by @twitter in ‘20). add me on instagram.",
+        "username": "Esther Crawford",
+        "handle": "@esthercrawford",
+        "mutuals": false
+    },
+    {
+        "bio": "CTO at @cartainc. Author of Staff Engineer and An Elegant Puzzle. Currently writing The Engineer Executive's Primer w/O'Reilly.",
+        "username": "Will Larson",
+        "handle": "@Lethain",
+        "mutuals": false
+    },
+    {
+        "bio": "on hiatus",
+        "username": "Adil Majid",
+        "handle": "@adilmajid",
+        "mutuals": true
+    },
+    {
+        "bio": "Posts made to Interconnected, a weblog by itinerant besserwisser Matt Webb aka @genmon. Est Feb 2000",
+        "username": "Matt Webb's blog",
+        "handle": "@intrcnnctd",
+        "mutuals": false
+    },
+    {
+        "bio": "Science journalist and author of Ace (http://bit.ly/3PzK98i), previously @wired @techreview @verge @wsj. I one-box in Newcomb's paradox.",
+        "username": "Angela Chen",
+        "handle": "@chengela",
+        "mutuals": true
+    },
+    {
+        "bio": "The safest and most convenient way to use AI",
+        "username": "Credal.ai",
+        "handle": "@credal_ai",
+        "mutuals": true
+    },
+    {
+        "bio": "Senior research analyst @open_phil. Opinions my own.",
+        "username": "Joe Carlsmith",
+        "handle": "@jkcarlsmith",
+        "mutuals": false
+    },
+    {
+        "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education with games & AI. Speaking via @WSB_Speakers\nSubstack: http://oneusefulthing.substack.com",
+        "username": "Ethan Mollick",
+        "handle": "@emollick",
+        "mutuals": false
+    },
+    {
+        "bio": "It spoke a human language, with phonemes made of birdsong.",
+        "username": "Fernando",
+        "handle": "@zetalyrae",
+        "mutuals": true
+    },
+    {
+        "bio": "unsure",
+        "username": "arshia",
+        "handle": "@arshia__",
+        "mutuals": true
+    },
+    {
+        "bio": "AI art developer, alignment-accelerationist, Fedorovist ancestor simulator, Dreamtime enjoyer. \n\nAll tweets public domain under CC0 1.0.\n\nTeia/HEN: http://teia.art/jdp",
+        "username": "John David Pressman",
+        "handle": "@jd_pressman",
+        "mutuals": false
+    },
+    {
+        "bio": "slow-drip thinking",
+        "username": "gynoid",
+        "handle": "@gynoidism",
+        "mutuals": false
+    },
+    {
+        "bio": "Entrepreneur, Investor @VillageGlobal, Co-Author of The Startup of You and The Alliance. http://villageglobal.vc",
+        "username": "Ben Casnocha",
+        "handle": "@bencasnocha",
+        "mutuals": true
+    },
+    {
+        "bio": "I teach programs how to program @ OpenAI  | putting the ball in the damn hoop - @jacobmenick",
+        "username": "Jerry Tworek",
+        "handle": "@MillionInt",
+        "mutuals": false
+    },
+    {
+        "bio": "Deputy Editor @OurWorldinData / Researcher at @UniofOxford / Honorary Fellow at @EdinburghUni @EdCentreCC / Not the End of the World: http://amzn.to/3MdaOci",
+        "username": "Hannah Ritchie",
+        "handle": "@_HannahRitchie",
+        "mutuals": false
+    },
+    {
+        "bio": "Cuban American. Thinking about art, culture, startups, and philosophy. Building @RewindAI. Triumpho morte tam vita",
+        "username": "Gonzalo Nuñez",
+        "handle": "@gonzalo__nunez",
+        "mutuals": true
+    },
+    {
+        "bio": "",
+        "username": "Sebastian Bensusan",
+        "handle": "@sebasbensu",
+        "mutuals": true
+    },
+    {
+        "bio": "General Partner @a16z. American Dynamism.",
+        "username": "Katherine Boyle",
+        "handle": "@KTmBoyle",
+        "mutuals": false
+    },
+    {
+        "bio": "General Partner @a16z. Previously: Firmwide Strategy @GoldmanSachs, Founder, CEO @onbondstreet and VC @SparkCapital. @Harvard biochem.",
+        "username": "David Haber",
+        "handle": "@dhaber",
+        "mutuals": false
+    },
+    {
+        "bio": "digital introvert, IRL extrovert. mostly here to shill my company @partiful. previously built less cool stuff @asapp @PalantirTech @princeton",
+        "username": "shreya",
+        "handle": "@shreyamurthy",
+        "mutuals": true
+    },
+    {
+        "bio": "Dreaming about the future, romanticizing the past | MP @compoundvc investing in former science projects & crypto with a thesis-driven approach | @compoundarxiv",
+        "username": "Michael Dempsey",
+        "handle": "@mhdempsey",
+        "mutuals": true
+    },
+    {
+        "bio": "“I am a wow-ist. I just go around in amazement and say ‘wow’ at things.” minds, brains, writing, introspection, gatherings, etc http://kasra.io",
+        "username": "kasra",
+        "handle": "@kasratweets",
+        "mutuals": true
+    },
+    {
+        "bio": "Founder: http://Credal.AI. X-Palantir, GoCardless, THG, Google. I hanker after an honorable goddam skull",
+        "username": "Ravin Thambapillai",
+        "handle": "@ravin_tham",
+        "mutuals": true
+    },
+    {
+        "bio": "armchair anthropologist. engineering+filmmaking for energy+resilience @fuseenergytech @socraticainfo @uwaterloosyde",
+        "username": "anson",
+        "handle": "@ansonyuu",
+        "mutuals": true
+    },
+    {
+        "bio": "USV  | real names be proof  |  maybe so and maybe not",
+        "username": "Andy Weissman",
+        "handle": "@aweissman",
+        "mutuals": true
+    },
+    {
+        "bio": "tech lawyer, failed poet / affiliate researcher for http://summerofprotocols.com",
+        "username": "janna",
+        "handle": "@janna_tay",
+        "mutuals": true
+    },
+    {
+        "bio": "Now: product research, human feedback at @AnthropicAI. Before: MIT postdoc, UC Berkeley philosophy PhD. Built http://deductivelogic.org",
+        "username": "Jackson Kernion",
+        "handle": "@JacksonKernion",
+        "mutuals": true
+    },
+    {
+        "bio": "humans for the best machines for the rest — ceo @axis_hq (yc w22): knowledge base for corporate affairs teams — current deep dive: longevity",
+        "username": "Mishaal",
+        "handle": "@algergawi",
+        "mutuals": true
+    },
+    {
+        "bio": "Tweets on building and scaling startups.\nCEO @PilotHQ, financial back-office for growing businesses\nPrev. founded @Ksplice (acq Oracle) & @Zulip (acq Dropbox)",
+        "username": "Waseem Daher",
+        "handle": "@waseem",
+        "mutuals": false
+    },
+    {
+        "bio": "President @comma_ai. Founder @__tinygrad__",
+        "username": "George Hotz",
+        "handle": "@realGeorgeHotz",
+        "mutuals": false
+    },
+    {
+        "bio": "Ex-@PalantirTech Healthcare, working on something new",
+        "username": "Samir Unni",
+        "handle": "@SamirUnni",
+        "mutuals": true
+    },
+    {
+        "bio": "нпачиму",
+        "username": "danabra.mov",
+        "handle": "@dan_abramov",
+        "mutuals": false
+    },
+    {
+        "bio": "Partner @kleinerperkins - prev: @foundersfund, @bondcap - http://randle.substack.com, http://evrandle.com",
+        "username": "Everett Randle",
+        "handle": "@EverettRandle",
+        "mutuals": false
+    },
+    {
+        "bio": "Thinking about whether AI will destroy the world at http://aiimpacts.org. DM or email for media requests. Feedback: http://admonymous.co/googolplex",
+        "username": "Katja Grace",
+        "handle": "@KatjaGrace",
+        "mutuals": false
+    },
+    {
+        "bio": "Group Partner & Managing Director @ycombinator",
+        "username": "Dalton Caldwell",
+        "handle": "@daltonc",
+        "mutuals": false
+    },
+    {
+        "bio": "a simple, but unusual object. alt @kipperriiii",
+        "username": "kipply",
+        "handle": "@kipperrii",
+        "mutuals": false
+    },
+    {
+        "bio": "PhD student @MITEcon. Formerly @Uber, @AQRCapital, @UChicago",
+        "username": "Basil Halperin",
+        "handle": "@BasilHalperin",
+        "mutuals": true
+    },
+    {
+        "bio": "traveler between worlds, worldbuilder, reader, I heart art + tech. Editor in Chief a16z crypto; EiC a16z + podcast showrunner 2014-2022; fmr WIRED, Xerox PARC",
+        "username": "Sonal Chokshi",
+        "handle": "@smc90",
+        "mutuals": true
+    },
+    {
+        "bio": "Founder and chairman @latticeHQ. Other pursuits include investing in startups, hanging out with toddlers, and trying to get stronger",
+        "username": "Jack Altman",
+        "handle": "@jaltma",
+        "mutuals": false
+    },
+    {
+        "bio": "persona au gratin",
+        "username": "sympathetic opposition",
+        "handle": "@sympatheticopp",
+        "mutuals": false
+    },
+    {
+        "bio": "CEO @ARIA_research | formerly @activatefellows + @arpae + founder/investor | building a better future with science x community",
+        "username": "Ilan Gur",
+        "handle": "@ilangur",
+        "mutuals": true
+    },
+    {
+        "bio": "cofounder at @AdeptAILabs.\ntrying to do something at least twice as cool as the coolest thing I've already done.",
+        "username": "augustus odena",
+        "handle": "@gstsdn",
+        "mutuals": true
+    },
+    {
+        "bio": "Partner @sequoia // @caltech physics PhD // quantum space crypto security (it's a niche but high impact field)",
+        "username": "Shaun Maguire",
+        "handle": "@shaunmmaguire",
+        "mutuals": false
+    },
+    {
+        "bio": "Dare mighty things! Journeyman wondersmith @spec__tech. Past: AI @MagicLeap, Space Robots @NASA + @Cornell, medieval history @Caltech",
+        "username": "Ben Reinhardt",
+        "handle": "@Ben_Reinhardt",
+        "mutuals": true
+    },
+    {
+        "bio": "Policy @Policy_Exchange & @StartupCltn | Adviser @tenthinktank | Take my quiz http://thetakemachine.co.uk | TESCREAL  Prohuman",
+        "username": "Aria Babu",
+        "handle": "@Aria_Babu",
+        "mutuals": false
+    },
+    {
+        "bio": "building @blockpartyapp_ @privacypartyapp to make the internet safer. previously eng @pinterest @usds @quora  exhaustedfemalefounder on threads",
+        "username": "Tracy Chou",
+        "handle": "@triketora",
+        "mutuals": false
+    },
+    {
+        "bio": "Curious optimist.\nSincerity over sarcasm.\nBeliever in innovation (long $TSLA).\nThe only thing we have to fear is Moloch.\nhttp://lesswrong.com/users/esrogs",
+        "username": "Rogs",
+        "handle": "@ESRogs",
+        "mutuals": true
+    },
+    {
+        "bio": "physical AGI at 1X. Author of \"AI is Good for You\" https://evjang.com/book/",
+        "username": "Eric Jang",
+        "handle": "@ericjang11",
+        "mutuals": false
+    },
+    {
+        "bio": "I do healthcare & tech stuff. Founder of http://Curie.Bio, Flatiron Health (acq @Roche~$2b) & Invite Media (acq @Google~$81m). \n\nInvest @ http://OperatorPartners.com",
+        "username": "Tweets from Zach Weinberg",
+        "handle": "@zachweinberg",
+        "mutuals": false
+    },
+    {
+        "bio": "Buddha was a prince first.",
+        "username": "Gingerbread Cookies",
+        "handle": "@milken_cookies",
+        "mutuals": true
+    },
+    {
+        "bio": "Breathe in the evening sun. Breathe out the doing of taxes. Epistemic status: Oboe.",
+        "username": "Tyler Alterman (in monk mode: writing month)",
+        "handle": "@TylerAlterman",
+        "mutuals": true
+    },
+    {
+        "bio": "Philosopher at @guidepostschool and @montessorium. Husband to @Gena_I_Gorlin, father to the creatures in my dadpoasts.",
+        "username": "Matt Bateman",
+        "handle": "@mbateman",
+        "mutuals": true
+    },
+    {
+        "bio": "roon alt",
+        "username": "punished roon",
+        "handle": "@proona5",
+        "mutuals": false
+    },
+    {
+        "bio": "teaching machines, thinking about light   previously:  @opendoor  @openai @claralabs @watchsend @mosaicio @ycombinator S13",
+        "username": "Zain Shah",
+        "handle": "@zan2434",
+        "mutuals": true
+    },
+    {
+        "bio": "Host of Dwarkesh Podcast\n\nhttps://youtube.com/DwarkeshPatel\nhttps://spoti.fi/3MFtqBR\nhttps://apple.co/3ujLQkZ\n\nAdvertise: dwarkesh at dwarkeshpatel dot com",
+        "username": "Dwarkesh Patel",
+        "handle": "@dwarkesh_sp",
+        "mutuals": true
+    },
+    {
+        "bio": "Philosophy professor. Writes about games, trust, art, intimacy, echo chambers, metrics. My new book is GAMES: AGENCY AS ART: http://amzn.to/2xIaW06",
+        "username": "C Thi Nguyen",
+        "handle": "@add_hawk",
+        "mutuals": false
+    },
+    {
+        "bio": "founder, @worksinprogmag (@stripe), anti-cheems aktion",
+        "username": "Nick Whitaker",
+        "handle": "@ns_whit",
+        "mutuals": true
+    },
+    {
+        "bio": "rehearsing",
+        "username": "Paige",
+        "handle": "@czgate",
+        "mutuals": true
+    },
+    {
+        "bio": "ceo & cofounder @alloyautomation, integration infrastructure | prev @harvard @ycombinator",
+        "username": "Sara Du",
+        "handle": "@saraduit",
+        "mutuals": false
+    },
+    {
+        "bio": "I have a place where I say complicated things about philosophy and science. That place is my blog. This is where I make terrible puns.",
+        "username": "Scott Alexander",
+        "handle": "@slatestarcodex",
+        "mutuals": false
+    },
+    {
+        "bio": "Progress & stagnation; meaning & meditation |  Video essays @ Frame Problems |  http://frameproblems.substack.com | fmr: Director of Media @psych_of_tech",
+        "username": "Jake Orthwein",
+        "handle": "@JakeOrthwein",
+        "mutuals": true
+    },
+    {
+        "bio": "TMI tweets. Founded @PinchRent (acq'd @Chime) & @myRocksbox (acq’d Signet). Now proud mom plus  investing with @parcelbvc, @XFactorVentures & @2daysearly",
+        "username": "Maia Bittner",
+        "handle": "@maiab",
+        "mutuals": true
+    },
+    {
+        "bio": "fellow creators the creator seeks",
+        "username": "roon",
+        "handle": "@tszzl",
+        "mutuals": true
+    },
+    {
+        "bio": "In dark times will there also be singing?",
+        "username": "Zara",
+        "handle": "@zara_k01",
+        "mutuals": true
+    },
+    {
+        "bio": "opinions are not those of my wife",
+        "username": "Sasha Chapin",
+        "handle": "@sashachapin",
+        "mutuals": false
+    },
+    {
+        "bio": "Founder @signalapp",
+        "username": "Moxie Marlinspike",
+        "handle": "@moxie",
+        "mutuals": false
+    },
+    {
+        "bio": "stochastic parrots since luatorch\n\nengineering & research at @AnthropicAI.\n\nDC, SF",
+        "username": "andy jones",
+        "handle": "@andy_l_jones",
+        "mutuals": false
+    },
+    {
+        "bio": "{{,}{,},}",
+        "username": "dynomight",
+        "handle": "@dynomight7",
+        "mutuals": false
+    },
+    {
+        "bio": "@mothfund",
+        "username": "Molly Mielke",
+        "handle": "@mollyfmielke",
+        "mutuals": false
+    },
+    {
+        "bio": "Exploring the frontier.\nCo-founder of @Paradigm and @Coinbase.",
+        "username": "Fred Ehrsam",
+        "handle": "@FEhrsam",
+        "mutuals": false
+    },
+    {
+        "bio": "Tyler Cowen's Ethnic Dining Guide: All food is ethnic food.   http://TCEDG.com",
+        "username": "TCEthnicDiningGuide",
+        "handle": "@TCEDG",
+        "mutuals": false
+    },
+    {
+        "bio": "Internal tech industry emails that surface in public records.  Get the newsletter: http://techemails.com",
+        "username": "Internal Tech Emails",
+        "handle": "@TechEmails",
+        "mutuals": false
+    },
+    {
+        "bio": "Research Fellow, @UniofOxford | Head of Housing, @CPSThinkTank | Fellow, @createstreets | Interested in architecture & urbanism | Views my own",
+        "username": "Samuel Hughes",
+        "handle": "@SCP_Hughes",
+        "mutuals": false
+    },
+    {
+        "bio": "Founding Editor @the_point_mag",
+        "username": "Jon Baskin",
+        "handle": "@BaskinJon",
+        "mutuals": false
+    },
+    {
+        "bio": "managing editor of @the_point_mag //\nessay pitches? email rwiseman at http://thepointmag.com",
+        "username": "Rachel Wiseman",
+        "handle": "@rachelcwiseman",
+        "mutuals": false
+    },
+    {
+        "bio": "biotech startups @pillar_vc and @petribio\nPrior: @MIT, @BroadInstitute",
+        "username": "Tony Kulesa",
+        "handle": "@kulesatony",
+        "mutuals": true
+    },
+    {
+        "bio": "writer | previously @NewYorker",
+        "username": "Jessie Li",
+        "handle": "@JessieLiTweets",
+        "mutuals": true
+    },
+    {
+        "bio": "Vacation rental investor & proprietor of fine Airbnbs in Sonoma, Kauai, Taos, Mt Hood, Yosemite, Asheville. Also have a subscriber feed with more data.",
+        "username": "Rohin Dhar",
+        "handle": "@rohindhar",
+        "mutuals": false
+    },
+    {
+        "bio": "molecular tool dev, aging research, moonshot science | @mit Boyden lab @princeton CS | prev: @thielfellowship @pcuwc | proudly",
+        "username": "Joanne Peng",
+        "handle": "@JoanneZPeng",
+        "mutuals": true
+    },
+    {
+        "bio": "superalignment @ openai",
+        "username": "Leopold Aschenbrenner",
+        "handle": "@leopoldasch",
+        "mutuals": true
+    },
+    {
+        "bio": "worked @ klute nightclub / 'all pronouns'",
+        "username": "Dominic Cummings",
+        "handle": "@Dominic2306",
+        "mutuals": false
+    },
+    {
+        "bio": "",
+        "username": "",
+        "handle": "@alteriorities",
+        "mutuals": true
+    },
+    {
+        "bio": "reality rocks",
+        "username": "Lea Degen",
+        "handle": "@lealeata",
+        "mutuals": true
+    },
+    {
+        "bio": "in pursuit of the beautiful, good, & true",
+        "username": "Ashley",
+        "handle": "@ashleydzhang",
+        "mutuals": true
+    },
+    {
+        "bio": "understanding human & machine minds to build a creative abundant future. CEO @imbue_ai. support founders @outsetcap. co-organize http://neighborhoodsf.com.",
+        "username": "Kanjun",
+        "handle": "@kanjun",
+        "mutuals": false
+    },
+    {
+        "bio": "I'm bad for the economy | http://smallbets.co",
+        "username": "Daniel Vassallo",
+        "handle": "@dvassallo",
+        "mutuals": false
+    },
+    {
+        "bio": "big picture-fetishist | aspiring erisologist (\"the study of disagreement and intellectual difference\") | lover and hater of words/philosophy/art",
+        "username": "John Nerst",
+        "handle": "@everytstudies",
+        "mutuals": true
+    },
+    {
+        "bio": " Design Evangelista talking Vision Pro, UI, games. Twitter is my LinkedIn, otherwise @lindadong@mas.to http://threads.net/@lindadong",
+        "username": "Linda Dong",
+        "handle": "@lindadong",
+        "mutuals": true
+    },
+    {
+        "bio": "Blogger world modeling, now mostly AI and AI x-risk, at Don't Worry About the Vase (http://thezvi.substack.com or WP/LW), founding Balsa Research to fix policy.",
+        "username": "Zvi Mowshowitz",
+        "handle": "@TheZvi",
+        "mutuals": false
+    },
+    {
+        "bio": "Columnist at the Washington Post. Opinions my own. Email me: Megan.McArdle -at- http://washpost.com Buy my book, The Up Side of Down http://amzn.to/1a3i2tK",
+        "username": "Megan McArdle",
+        "handle": "@asymmetricinfo",
+        "mutuals": false
+    },
+    {
+        "bio": "Writer of 1491, 1493, and The Wizard and the Prophet. Also @charlescmann.bsky.social.",
+        "username": "𝙲𝚑𝚊𝚛𝚕𝚎𝚜 𝙲. 𝙼𝚊𝚗𝚗",
+        "handle": "@CharlesCMann",
+        "mutuals": false
+    },
+    {
+        "bio": "econ prof @dartmouth, founder http://devdatalab.org.\n\nr2: \"a morass of disjointed streams of consciousness\"",
+        "username": "Paul Novosad",
+        "handle": "@paulnovosad",
+        "mutuals": true
+    },
+    {
+        "bio": "Helping everyone have a healthy baby @OrchidInc Prev Stanford CS, AI Lab, @thielfellowship",
+        "username": "Noor Siddiqui",
+        "handle": "@noor_siddiqui_",
+        "mutuals": false
+    },
+    {
+        "bio": "CEO @Conception (turning stem cells into human eggs)\n\nStarted @SciFounders (helping scientists start companies)",
+        "username": "Matt Krisiloff",
+        "handle": "@mattkrisiloff",
+        "mutuals": false
+    },
+    {
+        "bio": "Preorder Crypto Confidential: https://a.co/d/hg1rV5s | If you like my tweets, you'll love my essays: http://blog.nateliason.com",
+        "username": "Nat Eliason",
+        "handle": "@nateliason",
+        "mutuals": false
+    },
+    {
+        "bio": "Hacker - CEO @ConjectureAI - Ex-Head of @AiEleuther - I don't know how to save the world, but dammit I'm gonna try",
+        "username": "Connor Leahy",
+        "handle": "@NPCollapse",
+        "mutuals": true
+    },
+    {
+        "bio": "at the end of the world, there will be a library",
+        "username": "jw",
+        "handle": "@j_asminewang",
+        "mutuals": false
+    },
+    {
+        "bio": "Trying to figure out what makes minds and machines go \"Beep Bop!\" @AnthropicAI",
+        "username": "Trenton Bricken",
+        "handle": "@TrentonBricken",
+        "mutuals": true
+    },
+    {
+        "bio": "\"A comic palimpsest\"",
+        "username": "Alvaro de Menard",
+        "handle": "@AlvaroDeMenard",
+        "mutuals": true
+    },
+    {
+        "bio": "Partner, Founders Fund; Co-Founder, Anduril; Co-Founder, Sol",
+        "username": "Trae Stephens",
+        "handle": "@traestephens",
+        "mutuals": false
+    },
+    {
+        "bio": "Mad Scientist, Bon Vivant, and Raconteur.",
+        "username": "Perry E. Metzger",
+        "handle": "@perrymetzger",
+        "mutuals": false
+    },
+    {
+        "bio": "Optimist, founder @Storyworth",
+        "username": "Nick Baum",
+        "handle": "@nickbaum",
+        "mutuals": true
+    },
+    {
+        "bio": "I study machine learning & AI engineers and try to make their lives better. PhD-ing in databases @Berkeley_EECS @UCBEPIC and MLOps-ing around town. She/they.",
+        "username": "Shreya Shankar",
+        "handle": "@sh_reya",
+        "mutuals": true
+    },
+    {
+        "bio": "@AnthropicAI, ONEAI OECD, co-chair @indexingai, writer @ http://importai.net Past: @openai, @business @theregister. Neural nets, distributed systems, weird futures",
+        "username": "Jack Clark",
+        "handle": "@jackclarkSF",
+        "mutuals": false
+    },
+    {
+        "bio": "Enjoys a good applied micro paper. CEO of @open_phil. Views my own, tweets self-destruct every once in a while.",
+        "username": "Alexander Berger",
+        "handle": "@albrgr",
+        "mutuals": true
+    },
+    {
+        "bio": "Professor @Harvard @MIT @PGorg @WyssInstitute tech dev: #CRISPR #NGS #BRAINi",
+        "username": "george church",
+        "handle": "@geochurch",
+        "mutuals": false
+    },
+    {
+        "bio": "founder @midjourney, prev founder leap motion, nasa, max planck",
+        "username": "David",
+        "handle": "@DavidSHolz",
+        "mutuals": true
+    },
+    {
+        "bio": "Data Science at Propel. Formerly: Stitch Fix, Opendoor, Twitter, Facebook, neuroscience. chrissaid82 on thre@ds and csaid on blue sky",
+        "username": "Chris Said",
+        "handle": "@Chris_Said",
+        "mutuals": true
+    },
+    {
+        "bio": "Scientist at Tufts University; my lab studies anatomical and behavioral decision-making at multiple scales of biological, artificial, and hybrid systems.",
+        "username": "Michael Levin",
+        "handle": "@drmichaellevin",
+        "mutuals": false
+    },
+    {
+        "bio": "Designer/Programmer of Braid and The Witness.  President, Thekla, Inc. Partner in IndieFund. Working on good new things.\n\nI don't see most replies. Sad!",
+        "username": "Jonathan Blow",
+        "handle": "@Jonathan_Blow",
+        "mutuals": false
+    },
+    {
+        "bio": "how shall we live together?\n\nco-director @collect_intel ⋅ research @ ai taskforce \nwas @deepmind • co-created @kernel_magazine ⋅ TK",
+        "username": "Saffron Huang",
+        "handle": "@saffronhuang",
+        "mutuals": true
+    },
+    {
+        "bio": "founder, ceo @eternaltilidie || new airport @terminalNYC || “THE NEW TECHNOLOGIST”",
+        "username": "",
+        "handle": "@HipCityReg",
+        "mutuals": true
+    },
+    {
+        "bio": "thoughtfully optimist. prev @convergent_fros @copysmith_ai @boundarylt",
+        "username": "Anna Wang",
+        "handle": "@a_nnawang",
+        "mutuals": true
+    },
+    {
+        "bio": "",
+        "username": "Josh Buckley",
+        "handle": "@joshbuckley",
+        "mutuals": true
+    },
+    {
+        "bio": "building for the 90M on Medicaid @hifortunahealth  play http://otherinter.net  exploring spaceship earth with @danielhavir",
+        "username": "Nikita S",
+        "handle": "@singareddynm",
+        "mutuals": true
+    },
+    {
+        "bio": "Accidental nomad, casually searching for lighthouses.\n\n: Product Management, Poetry, Pilgrimage, Comedy, Meaning",
+        "username": "Amir is in Toronto",
+        "handle": "@amirhhz",
+        "mutuals": true
+    },
+    {
+        "bio": "Co-founder @IFP, an innovation policy think tank",
+        "username": "Alec Stapp",
+        "handle": "@AlecStapp",
+        "mutuals": true
+    },
+    {
+        "bio": "engineeress  Member of Technical Staff @openai",
+        "username": "Chelsea Sierra Voss",
+        "handle": "@csvoss",
+        "mutuals": true
+    },
+    {
+        "bio": "post-revenue, pre-ideology // writings at http://aquariusacquah.substack.com and http://causalflows.com // eng @trucksmarterinc // former @convoyteam",
+        "username": "ken",
+        "handle": "@aquariusacquah",
+        "mutuals": true
+    },
+    {
+        "bio": "Without haste, but without rest. Words @AmericanAffrs, @palladiummag. Prev @Yale",
+        "username": "Isaac Wilks",
+        "handle": "@wilks_isaac",
+        "mutuals": true
+    },
+    {
+        "bio": "Philosopher, UChicago\nBook http://is.gd/Ze88Za\nColumn http://is.gd/WHyOeh\nNYT http://is.gd/UonlHb\nYT http://is.gd/kKW7Hd\npodcast http://mindsalmostmeeting.com",
+        "username": "Agnes Callard @agcallard.bsky.social",
+        "handle": "@AgnesCallard",
+        "mutuals": false
+    },
+    {
+        "bio": "Co-founder of @RoamResearch. Our pronouns are We/Us/Nosotros",
+        "username": "Conor White-Sullivan 𐃏",
+        "handle": "@Conaw",
+        "mutuals": true
+    },
+    {
+        "bio": "product @peerspace | patiently reading the Diamond Age | making beautiful things, learning to see",
+        "username": "Bushra Farooqui",
+        "handle": "@startuployalist",
+        "mutuals": true
+    },
+    {
+        "bio": "Investor  / GP at @a16zcrypto / @aarthisrirampod / believe in tech+optimism / http://sriramk.com",
+        "username": "Sriram Krishnan - sriramk.eth",
+        "handle": "@sriramk",
+        "mutuals": false
+    },
+    {
+        "bio": "AGI at Keen Technologies, former CTO Oculus VR, Founder Id Software and Armadillo Aerospace",
+        "username": "John Carmack",
+        "handle": "@ID_AA_Carmack",
+        "mutuals": false
+    },
+    {
+        "bio": "Co-founder of Wrapp, ex-Spotify CTO, ex-Stardoll. Technologist, advisor, angel. Values freedom. If you're wondering if a tweet was sarcastic, the answer is yes.",
+        "username": "Andreas Ehn",
+        "handle": "@ehn",
+        "mutuals": true
+    },
+    {
+        "bio": "econ prof @NorthwesternU\n\nvisiting Stanford 23-24\n\nsocial and economic networks\n\nbengolub on other platforms\n\npast: @Harvard | @Stanford'12 | @Caltech '07",
+        "username": "Ben Golub",
+        "handle": "@ben_golub",
+        "mutuals": true
+    },
+    {
+        "bio": "President and COO at Coinbase, Angel Investor",
+        "username": "Emilie Choi",
+        "handle": "@emiliemc",
+        "mutuals": true
+    },
+    {
+        "bio": "Moral philosopher at Oxford. Author of Doing Good Better and What We Owe The Future.",
+        "username": "William MacAskill",
+        "handle": "@willmacaskill",
+        "mutuals": true
+    },
+    {
+        "bio": "Hanging out with neural nets (& building tools to check out what the neurons are doing) @AnthropicAI \n\nprev: @open_phil @googlebrain @openai (@microcovid)",
+        "username": "Catherine Olsson",
+        "handle": "@catherineols",
+        "mutuals": false
+    },
+    {
+        "bio": "Academic jack-of-all-trades.",
+        "username": "Anders Sandberg",
+        "handle": "@anderssandberg",
+        "mutuals": false
+    },
+    {
+        "bio": "telling stories @amoamoamo. previous chapters @joinstationf, @zenly, @betaworks. northern irish export in paris",
+        "username": "sarah mcbride",
+        "handle": "@sararahmcb",
+        "mutuals": true
+    },
+    {
+        "bio": "Co-founder @join_ef; Chair @ARIA_Research; lots of AI",
+        "username": "Matt Clifford",
+        "handle": "@matthewclifford",
+        "mutuals": true
+    },
+    {
+        "bio": "Founder, @rootsofprogress. I write about the history of technology and the philosophy of progress. Part-time consultant to @OurWorldInData. Former tech founder",
+        "username": "Jason Crawford",
+        "handle": "@jasoncrawford",
+        "mutuals": true
+    },
+    {
+        "bio": "Partner @UluVentures / OCPS D2 Board Member  /@UCBerkeley  /  writing on http://grounded.substack.com / helped build @UnshackledVC @swingleft @latinxVCs",
+        "username": "Maria Salamanca",
+        "handle": "@MariaSalamanca",
+        "mutuals": true
+    },
+    {
+        "bio": "Artist / Tinkerer / Investor",
+        "username": "Arram Sabeti",
+        "handle": "@arram",
+        "mutuals": true
+    },
+    {
+        "bio": "co-founder @IFP // the US is the R&D lab for the world and we should act like it",
+        "username": "Caleb Watney",
+        "handle": "@calebwatney",
+        "mutuals": true
+    },
+    {
+        "bio": "As a large language model trained by OpenAI, I am not capable of generating a fabricated backstory for a Twitter bio.",
+        "username": "Byrne Hobart",
+        "handle": "@ByrneHobart",
+        "mutuals": true
+    },
+    {
+        "bio": "@Primer CEO. On the side of the builders and the kids.",
+        "username": "Ryan Delk",
+        "handle": "@delk",
+        "mutuals": false
+    },
+    {
+        "bio": "Focus on what you want to see more of.  buy my ebooks ▲ FRIENDLY AMBITIOUS NERD ▲ (http://gum.co/FANbook) and ꩜ INTROSPECT ꩜ (http://gum.co/introspect)",
+        "username": "Visakan Veerasamy",
+        "handle": "@visakanv",
+        "mutuals": true
+    },
+    {
+        "bio": "Recovering economist turned biotech VC. Lossy compression not recommended. No, we have not picked all the low-hanging fruit yet. My other half: @diviacaroline",
+        "username": "William Eden",
+        "handle": "@WilliamAEden",
+        "mutuals": true
+    },
+    {
+        "bio": "researching malleable software @inkandswitch /",
+        "username": "Geoffrey Litt",
+        "handle": "@geoffreylitt",
+        "mutuals": true
+    },
+    {
+        "bio": "bookbear",
+        "username": "Ava",
+        "handle": "@noampomsky",
+        "mutuals": true
+    },
+    {
+        "bio": "☧ stay at home mom // formerly: VC @compoundvc investing in former science projects, @compoundarxiv; core @ConstitutionDAO http://numinousxperience.xyz",
+        "username": "nicole ruiz",
+        "handle": "@nwilliams030",
+        "mutuals": true
+    },
+    {
+        "bio": "Founder + CEO @SocketSecurity (http://socket.dev) •\n Stanford lecturer (http://cs253.stanford.edu) •\n Open source at @WebTorrentApp + @StandardJS •\n Mad scientist",
+        "username": "Feross",
+        "handle": "@feross",
+        "mutuals": false
+    },
+    {
+        "bio": "Publishing @stripepress, Board @ifp | Host of Beneath the Surface, a pod about infrastructure: https://press.stripe.com/beneath-the-surface…",
+        "username": "Tamara Winter",
+        "handle": "@_TamaraWinter",
+        "mutuals": true
+    },
+    {
+        "bio": "in service of lightness",
+        "username": "chris ser",
+        "handle": "@ctbeiser",
+        "mutuals": true
+    },
+    {
+        "bio": "…to reach the unreachable star! posobin gmail com\n\n@ampie_app adds social context to web pages, check it out if you enjoy browsing the web!",
+        "username": "Gleb (offline, send me emails)",
+        "handle": "@posobin",
+        "mutuals": true
+    },
+    {
+        "bio": "Epistemology applied to everything.  Host of Reason Is Fun podcast w/ @DavidDeutschOxf  Taking critical rationalism into life – how to improve both.",
+        "username": "Lulie",
+        "handle": "@reasonisfun",
+        "mutuals": true
+    },
+    {
+        "bio": "",
+        "username": "Lama",
+        "handle": "@LamaAlRajih",
+        "mutuals": true
+    },
+    {
+        "bio": "Let’s skip witty repartee & discuss fundamental questions. Views are mine, not GMU’s or Virginia’s. Books: http://ageofem.com, http://elephantinthebrain.com",
+        "username": "Robin Hanson",
+        "handle": "@robinhanson",
+        "mutuals": false
+    },
+    {
+        "bio": "",
+        "username": "Elon Musk",
+        "handle": "@elonmusk",
+        "mutuals": false
+    },
+    {
+        "bio": "Author “Dawn of Eurasia,” “Belt and Road,” “History Has Begun,” “Geopolitics for the End Time,” forthcoming “Masters of the Metaverse.” - Foreign correspondent",
+        "username": "Bruno Maçães",
+        "handle": "@MacaesBruno",
+        "mutuals": true
+    },
+    {
+        "bio": "world's first space drugs and arms dealer @vardaspace village idiot/partner @foundersfund",
+        "username": "delian",
+        "handle": "@zebulgar",
+        "mutuals": false
+    },
+    {
+        "bio": "new smol acc @0xRMT",
+        "username": "Riva",
+        "handle": "@rivatez",
+        "mutuals": true
+    },
+    {
+        "bio": "Bricoleur at @livekitted. Striving to reach the center.",
+        "username": "Noah Tye",
+        "handle": "@noahlt",
+        "mutuals": true
+    },
+    {
+        "bio": "Playbyte founder and CEO | Now: game developer | Previously: drones @SkydioHQ \"emerging platforms\" VC @a16z writer @TechCrunch",
+        "username": "Kyle Russell",
+        "handle": "@kylebrussell",
+        "mutuals": true
+    },
+    {
+        "bio": "physicist, startup founder, blogger, dad",
+        "username": "steve hsu",
+        "handle": "@hsu_steve",
+        "mutuals": false
+    },
+    {
+        "bio": "Assistant National Cyber Director for Technology Security at The White House, @ONCD. Cryptographer & cellist (not at the same time.) Former Team USA triathlete.",
+        "username": "Anjana Rajan",
+        "handle": "@anjaninna",
+        "mutuals": true
+    },
+    {
+        "bio": "",
+        "username": "alexey",
+        "handle": "@alexeyguzey",
+        "mutuals": true
+    },
+    {
+        "bio": "Deep learning @google. Creator of Keras. Author of 'Deep Learning with Python'. Opinions are my own.",
+        "username": "François Chollet",
+        "handle": "@fchollet",
+        "mutuals": false
+    },
+    {
+        "bio": "boltzmann brain || postpostrat || greatest hits: https://twitter.com/search?q=from%3Aevansandhoefner%20min_faves%3A25&src=typed_query&f=live…",
+        "username": "Evan Sandhoefner",
+        "handle": "@EvanSandhoefner",
+        "mutuals": true
+    },
+    {
+        "bio": "Thinking & writing about science.\nResearch @OurWorldInData. Co-founder @WorksInProgMag.",
+        "username": "Saloni",
+        "handle": "@salonium",
+        "mutuals": false
+    },
+    {
+        "bio": "Building @join_polaris // In your own becoming there is light—enough to lead you home",
+        "username": "Arnaud Schenk",
+        "handle": "@_ArnaudS_",
+        "mutuals": true
+    },
+    {
+        "bio": "Interfaces + Invention + Investing. Computers are great but they could be better. \nMacOS / iOS dev and occasional ML/HW tinkerer.",
+        "username": "Nick Arner",
+        "handle": "@nickarner",
+        "mutuals": true
+    },
+    {
+        "bio": "Founder: @interintellect_  Bio: http://annagat.com • Writing: http://interera.substack.com",
+        "username": "Anna Gát",
+        "handle": "@TheAnnaGat",
+        "mutuals": true
+    },
+    {
+        "bio": "Founder of Dagster Labs. Creator of Dagster. GraphQL co-creator.",
+        "username": "Nick Schrock",
+        "handle": "@schrockn",
+        "mutuals": true
+    },
+    {
+        "bio": "Partner at @initialized. Previously @techcrunch. When life hands me lemons, I make tarte au citron.",
+        "username": "Kim-Mai Cutler",
+        "handle": "@kimmaicutler",
+        "mutuals": true
+    },
+    {
+        "bio": "",
+        "username": "Myles Recny",
+        "handle": "@recborg",
+        "mutuals": true
+    },
+    {
+        "bio": "Entrepreneur & Investor",
+        "username": "Elad Gil",
+        "handle": "@eladgil",
+        "mutuals": false
+    },
+    {
+        "bio": "Flaneur: probability (philosophy), probability (mathematics), probability (real life), Phoenician wine, deadlifts & dead languages. Greco-Levantine. #RWRI",
+        "username": "Nassim Nicholas Taleb",
+        "handle": "@nntaleb",
+        "mutuals": false
+    },
+    {
+        "bio": "CEO @duffelhq",
+        "username": "Steve Domin",
+        "handle": "@stevedomin",
+        "mutuals": true
+    },
+    {
+        "bio": "I work for the Internet and am an advisor to @stripe. These are my personal opinions unless otherwise noted.",
+        "username": "Patrick McKenzie",
+        "handle": "@patio11",
+        "mutuals": false
+    },
+    {
+        "bio": "Fallibilist, optimist. Stripe CEO.",
+        "username": "Patrick Collison",
+        "handle": "@patrickc",
+        "mutuals": false
+    },
+    {
+        "bio": "Founder @SevenSevenSix  @776Foundation\nPrev. @Initialized @Reddit  #BusinessDad\nOwner  @weareLAGC  @weareangelcity  @cloud9\n40 \nNFA & Views My Own",
+        "username": "Alexis Ohanian",
+        "handle": "@alexisohanian",
+        "mutuals": true
+    },
+    {
+        "bio": "cofounder @groupthinkai || exited CEO @mattermark, past @twilio @ycombinator (S12) @gitlab, now: coach, investor, autodidact, gardener, cook, goes by “ell-ee”",
+        "username": "Danielle Morrill",
+        "handle": "@DanielleMorrill",
+        "mutuals": true
+    },
+    {
+        "bio": "CEO @teller. Heretic.",
+        "username": "Stevie Graham",
+        "handle": "@stevegraham",
+        "mutuals": true
+    },
+    {
+        "bio": "a16z GAMES FUND ONE. Investing in games, AI, VR/AR, metaverse, and the future of entertainment!",
+        "username": "andrew chen",
+        "handle": "@andrewchen",
+        "mutuals": true
+    },
+    {
+        "bio": "Group Partner at @ycombinator\n\nCofounded @gocardless and @monzo",
+        "username": "Tom Blomfield",
+        "handle": "@t_blom",
+        "mutuals": false
+    },
+    {
+        "bio": "Early-stage tech VC and recovering work- and tech- oholic. Online identity full circle: Eileen Tso, Eileen Broch, Eileen Burbidge",
+        "username": "Eileen Burbidge",
+        "handle": "@eileentso",
+        "mutuals": true
+    },
+    {
+        "bio": "#bitcoin and chill.\n\n#nostr: npub1sg6plzptd64u62a878hep2kev88swjh3tw00gjsfl8f237lmu63q0uf63m",
+        "username": "jack",
+        "handle": "@jack",
+        "mutuals": false
+    },
+    {
+        "bio": "MD & Partner @ycombinator",
+        "username": "Harj Taggar",
+        "handle": "@harjtaggar",
+        "mutuals": false
+    },
+    {
+        "bio": "Making it easy to live wherever, whenever as the CEO of @zeusliving .  by @airbnb @initialized @ycombinator  PPE @stjohnsox Former   @manutd",
+        "username": "Kulveer",
+        "handle": "@kul",
+        "mutuals": true
+    },
+    {
+        "bio": "Founder @gocardless",
+        "username": "Hiroki Takeuchi",
+        "handle": "@hirokitakeuchi",
+        "mutuals": true
+    },
+    {
+        "bio": "Building something new \n\nPrev: @github, @dependabot, @monzo, @gocardless.",
+        "username": "Harry Marr",
+        "handle": "@harrymarr",
+        "mutuals": true
+    },
+    {
+        "bio": "Programming, philosophy, history, internet, startups, crypto/web3. Author of Read Write Own (Random House, January 2024)",
+        "username": "cdixon.eth",
+        "handle": "@cdixon",
+        "mutuals": true
+    },
+    {
+        "bio": "President & CEO @ycombinator —Founder @Initialized—PM/designer/engineer who helps founders—YouTuber—San Franciscan—technology brother—Accelerate human abundance",
+        "username": "Garry Tan 陈嘉兴 — e/acc",
+        "handle": "@garrytan",
+        "mutuals": true
+    },
+    {
+        "bio": "Director “Finding Alaa”• Presenter France in Focus @aje•Docs• OWM Filmmaker to watch'21•present-produce-direct RT≠endorse info@myriamfrancois.com",
+        "username": "Dr Myriam François",
+        "handle": "@MyriamFrancoisC",
+        "mutuals": true
+    },
+    {
+        "bio": "",
+        "username": "Sam Altman",
+        "handle": "@sama",
+        "mutuals": false
+    },
+    {
+        "bio": "GMU econ prof, NYT bestseller, father of 4, author of Myth of the Rational Voter, Selfish Reasons to Have More Kids, Case Against Education, and Open Borders.",
+        "username": "Bryan Caplan",
+        "handle": "@bryan_caplan",
+        "mutuals": false
+    },
+    {
+        "bio": "new book *Talent: How to Identify Energizers, Winners, and Creatives Around the World*, http://marginalrevolution.com, Conversations with Tyler, Bloomberg Opinion.",
+        "username": "tylercowen",
+        "handle": "@tylercowen",
+        "mutuals": true
+    },
+    {
+        "bio": "",
+        "username": "Paul Graham",
+        "handle": "@paulg",
+        "mutuals": false
+    }
+]
